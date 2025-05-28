@@ -32,10 +32,12 @@ This project implements a Retrieval-Augmented Generation (RAG) system for semant
 
 ## Files
 
-- `rag_quote_retrieval.ipynb`: Jupyter Notebook with all code.
+- `rag_quote_retrieval.ipynb`: ipynb file with all code.
 - `rag_system.py`: Core classes for data processing, model, and RAG pipeline.
 - `app.py`: Streamlit application.
-- `fine_tuned_quote_model/`: Fine-tuned model directory.
+- `fine_tuned_quote_model/`: Fine-tuned model directory.'
+- `top-tags.png`
+- `quote_length_distribution.png`
 
 ## Design Choices
 
