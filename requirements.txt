@@ -1,0 +1,12 @@
+datasets
+transformers
+sentence-transformers
+faiss-cpu
+streamlit
+pandas
+numpy
+ragas
+langchain
+langchain-community
+torch
+ollama
